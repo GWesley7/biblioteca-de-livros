@@ -1,6 +1,6 @@
 # 📚 Sistema de Biblioteca de Livros
 
-Sistema completo de gerenciamento de acervo bibliográfico desenvolvido em linguagem C. Permite o cadastro, consulta, edição e exclusão de livros com armazenamento persistente em arquivo.
+Sistema completo de gerenciamento de acervo bibliográfico desenvolvido em linguagem C. Permite o cadastro, consulta, edição, exclusão e controle de empréstimos de livros com armazenamento persistente em arquivo.
 
 ## 🎯 Funcionalidades
 
@@ -10,6 +10,8 @@ Sistema completo de gerenciamento de acervo bibliográfico desenvolvido em lingu
 - ## ✏️ Editar Livros	Atualiza informações dos livros
 - ## ❌ Excluir Livros	Remove livros do acervo
 - ## 📄 Listar Todos	Exibe todo o acervo organizadamente
+- ## 📅 Sistema de Empréstimos - Controla empréstimo e devolução de livros
+- ## 👥 Gerenciar Usuários - Cadastro de usuários do sistema
 - ## 💾 Armazenamento	Salva dados em arquivo binário
 - ## 🛠️ Tecnologias Utilizadas
   
